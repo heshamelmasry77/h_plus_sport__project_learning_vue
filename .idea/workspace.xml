@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d121e8e1-d835-4c8b-8b60-bf532e47082f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subscribe.html" beforeDir="false" afterPath="$PROJECT_DIR$/subscribe.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,23 +32,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="122" />
+          <entry key="html" value="287" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="122" />
+          <entry key="HTML" value="287" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.php.new.class" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2451" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -62,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/subscribe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="141" column="46" selection-end-line="241" />
+            <state relative-caret-position="255">
+              <caret line="128" column="12" selection-start-line="128" selection-start-column="12" selection-end-line="128" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -85,6 +89,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -141,12 +148,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539898153755</updated>
-      <workItem from="1539898155277" duration="478000" />
+      <workItem from="1539898155277" duration="1255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478000" />
+    <option name="totallyTimeSpent" value="1255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -158,7 +165,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -186,14 +193,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2451" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/subscribe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="141" column="46" selection-end-line="241" />
+        <state relative-caret-position="255">
+          <caret line="128" column="12" selection-start-line="128" selection-start-column="12" selection-end-line="128" selection-end-column="12" />
         </state>
       </provider>
     </entry>
